@@ -5,5 +5,5 @@
   "background_color": "#2196f3",
   "display": "minimal-ui",
   "scope": "/",
-  "start_url": "https://chromeos-tools.github.io"
+  "start_url": "/?from-pwa-app"
 }
