@@ -1,6 +1,19 @@
 {
   "name": "ChromeOS tools",
   "short_name": "ChromeOS tools",
+  "icons": [
+    {
+      "src": "/icons/pwa/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/pwa/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "minimal-ui",
